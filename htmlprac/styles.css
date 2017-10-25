@@ -1,0 +1,46 @@
+#swordStyle{
+    background-color: tomato;
+    color: blueviolet;
+}
+
+ol{
+    border: 1px solid greenyellow;
+    padding: 10%;
+    margin: 10%;
+}
+
+ol.imp{
+    color: goldenrod;
+    background-color: blueviolet;
+}
+a:link{
+    color:green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited{
+    color:red;
+    background-color: transparent;
+    text-decoration: none;
+
+}
+
+a:hover{
+    color:pink;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active{
+    color: yellow;
+    background-color: transparent;
+}
+/*
+#aot{
+    width: 25%;
+    height: 20%;
+}
+body{
+    background-image: url('images/138 - GQ4bPrx.png');
+}
+*/

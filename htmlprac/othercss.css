@@ -1,0 +1,47 @@
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+th,td{
+    padding: 5px;
+}
+th{
+    text-align: right;
+}
+table{
+    border-spacing: 5px;
+}
+table#diff{
+    width: 100%;
+    background-color: gold;
+}
+table#diff tr:nth-child(even){
+    background-color: aqua;
+}
+
+table#diff tr:nth-child(odd){
+    background-color: chocolate;
+}
+table#diff th{
+    color: crimson;
+    background-color: sienna;
+}
+#ullist{
+    list-style-type: square;
+}
+
+#ollist{
+    list-style-type: upper-alpha;
+
+}
+.weaponBio{
+    background-color: gold;
+    color: black;
+    border: 1px solid aqua;
+    margin-bottom: 2.5%;
+}
+
+iframe{
+    border: none;
+}

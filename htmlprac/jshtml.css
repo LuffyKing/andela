@@ -1,0 +1,15 @@
+p{
+    font-size: 10vw;
+}
+
+body{
+    background-image: url("images/011 - Ro3BCda.png");
+    background-repeat: repeat-y;
+}
+div {/*centring*/
+    border: 1px solid black;
+    margin: auto;
+    width:10%;
+    height: 10%;
+    background-color: lightblue;
+}

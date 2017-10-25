@@ -1,0 +1,31 @@
+
+td.firstColumn{
+    border-right: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+    width:50%;
+    margin: auto;
+    height:75%;
+
+}
+td{
+    width: 33.33%;
+    height: 33.33%;
+}
+
+td.thirdColumn{
+    border-left: 1px solid black;
+}
+#firstRow{
+    border-bottom: 1px solid black;
+}
+#secondRow{
+    border-bottom: 1px solid black;
+}
+h1{
+    text-align: center;
+}
+div{
+    height: 500px;
+}
